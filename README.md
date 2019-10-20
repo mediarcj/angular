@@ -1,1 +1,3 @@
-# angular
+# Angular
+
+My angular starter project.
